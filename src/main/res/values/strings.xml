@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Secret Chat</string>
+    <string name="no_users_found">No users registered yet.</string>
+    <string name="login">Login</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="click_here_to_register">New to SecretChat? Register Now</string>
+    <string name="write_a_message">Type a message</string>
+    <string name="click_here_to_login">Existing user? Click here to Login</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="register">Register</string>
+</resources>
